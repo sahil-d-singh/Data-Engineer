@@ -1,0 +1,7 @@
+DESCRIPTION Use the data analytics stack to extract, transform, and load the data using Data Factory. Problem Statement: 
+As a Senior Data Engineer for ABC Inc., you've been asked to access the tooling that can help with ETL of data in the data warehouse. 
+You've been asked to demonstrate an Azure Data Factory POC in order to learn more about Data Factory's transformation capability. 
+You are free to use whatever dataset you want. In addition, a data scientist has asked you to confirm if data can be moved from Azure Blob Storage to an SQL database. 
+You will need to create a simple proof of concept that copies data from Azure Blob Storage to an SQL database. 
+
+Domain: Database and analytics Analysis to Be Done: Create a simple proof of concept that utilizes Azure Data Factory to copy data from Azure Blob Storage to an SQL database.
