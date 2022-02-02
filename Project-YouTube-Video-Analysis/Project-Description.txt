@@ -1,0 +1,19 @@
+YouTube uses few key factors like measuring user interactions; number of
+views, shares, comments, and likes etc. to rank the videos as the top
+trending on the platform. The top trending list of videos mostly belongs to
+movies, music, celebrities, reality shows, TV shows, etc. This dataset
+includes few months of daily trending YouTube videos.
+
+Insights on Historical Data
+•	Top 3 videos for which user interaction (views + likes + dislikes + comments) is the highest.
+•	Bottom 3 videos for which user interaction (views + likes + dislikes + comments) is lowest.
+•	Top 3 videos of each category in each year
+  •	By number of views
+  •	By number of comments
+  •	By number of likes
+  •	Highest user interaction
+•	Top 3 videos in each month
+•	Top 3 videos of each category in each month
+•	Top 3 channels
+•	Top 3 categories
+  Top 3 videos
