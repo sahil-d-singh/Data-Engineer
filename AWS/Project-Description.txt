@@ -1,0 +1,10 @@
+Real-Time Analytics on Streaming Data with Amazon Kinesis and Amazon Elasticsearch Service
+
+Objective: Assist Facebook to do a continuous monitoring system to detect sentiment changes in a social media feed to react to the sentiment in near real time.
+
+Problem Statement: 
+Streaming data is used everywhere—from social networks, to mobile and web applications, IoT devices, instrumentation in data centers, and other sources. As the speed and volume of the of data increases, the need to perform data analysis in real time with machine learning algorithms and extract a deeper understanding from the data becomes even more important. 
+
+Domain: Sentiment Analysis of Social Media Platform
+
+Analysis to be done: Collect and store streaming data, use Amazon Kinesis Analytics to process and analyze the streaming data, apply machine learning algorithm to detect anomalies in the system.
